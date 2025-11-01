@@ -40,9 +40,6 @@
   <img src="https://leetcard.jacoblin.cool/chinnmaya-karwal?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" width="380" />
 </p>
 
-> 🧠 **LeetCode Profile:** [leetcode.com/u/chinnmaya-karwal](https://leetcode.com/u/chinnmaya-karwal)  
-> 🧩 **Questions Solved:** 120+
-
 ---
 
 ### 🌐 Most Used Languages
