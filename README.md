@@ -34,24 +34,17 @@
 
 ### 🧩 LeetCode Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/chinnmaya02?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="400" />
+  <img src="https://leetcard.jacoblin.cool/chinnmaya-karwal?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" width="380" />
 </p>
 
-> 🧠 **LeetCode Questions Solved:** 120+  
-*(Updated dynamically as per your LeetCode profile!)*  
+> 🧠 **LeetCode Profile:** [leetcode.com/u/chinnmaya-karwal](https://leetcode.com/u/chinnmaya-karwal)  
+> 🧩 **Questions Solved:** 120+
 
 ---
 
 ### 🌐 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnmaya02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Graph (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chinnmaya02/chinnmaya02/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
